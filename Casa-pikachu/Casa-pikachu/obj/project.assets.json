@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/diegosaldana/.nuget/packages/": {}
+    "/Users/angelorlandopena/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/diegosaldana/RepositoriosGithub/Casa-Pikachu/Casa-pikachu/Casa-pikachu/Casa-pikachu.csproj",
+      "projectUniqueName": "/Users/angelorlandopena/Documents/Repositorios GitHub/Casa-Pikachu/Casa-pikachu/Casa-pikachu/Casa-pikachu.csproj",
       "projectName": "Casa-pikachu",
-      "projectPath": "/Users/diegosaldana/RepositoriosGithub/Casa-Pikachu/Casa-pikachu/Casa-pikachu/Casa-pikachu.csproj",
-      "packagesPath": "/Users/diegosaldana/.nuget/packages/",
-      "outputPath": "/Users/diegosaldana/RepositoriosGithub/Casa-Pikachu/Casa-pikachu/Casa-pikachu/obj/",
+      "projectPath": "/Users/angelorlandopena/Documents/Repositorios GitHub/Casa-Pikachu/Casa-pikachu/Casa-pikachu/Casa-pikachu.csproj",
+      "packagesPath": "/Users/angelorlandopena/.nuget/packages/",
+      "outputPath": "/Users/angelorlandopena/Documents/Repositorios GitHub/Casa-Pikachu/Casa-pikachu/Casa-pikachu/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/diegosaldana/.nuget/NuGet/NuGet.Config"
+        "/Users/angelorlandopena/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

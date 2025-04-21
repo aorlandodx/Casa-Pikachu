@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Casa-pikachu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dc0d6397aeda6f097ada0e01e36a4a847be9e62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffeee48aeb7c0df4f0a3373cdc7d27025aa635b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Casa-pikachu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Casa-pikachu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
